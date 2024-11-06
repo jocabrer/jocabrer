@@ -10,6 +10,7 @@ Soy un **Desarrollador de Software** con más de **20 años de experiencia** en 
   - SQL (MySQL, Oracle, Microsoft SQL Server)
   - Python
   - Bash
+  - PHP
 - **Bases de datos:**
   - MySQL
   - Oracle Database
@@ -20,6 +21,7 @@ Soy un **Desarrollador de Software** con más de **20 años de experiencia** en 
   - .NET (OWIN)
   - Express.js
   - Entity Framework
+  - Codeigniter 
 - **Herramientas y tecnologías:**
   - Docker
   - Jenkins
