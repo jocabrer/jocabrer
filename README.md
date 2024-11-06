@@ -11,6 +11,7 @@ Soy un **Desarrollador de Software** con más de **20 años de experiencia** en 
   - Python
   - Bash
   - PHP
+  - Typescript
 - **Bases de datos:**
   - MySQL
   - Oracle Database
